@@ -1,0 +1,10 @@
+Input Sanitization	✅ Safe for now	Just don’t evaluate or store user input yet
+Data Integrity (JSON)	⚠️ Vulnerable	Validate file structure and sanitize inputs
+Deployment Permissions	✅ Public OK	Use public mode only for non-sensitive content
+Authentication	❌ None	Optional unless you build dashboards or logins
+Rate Limiting / Abuse Ctrl	❌ None	Not needed now, but keep in mind
+
+Currently, there is not intention to store user information. 
+The JSON security is being addressed.
+Authentication would be added as part of a monetized product, as will rate limiting. 
+Rate limiting will be added next, to curb malicious activity.
