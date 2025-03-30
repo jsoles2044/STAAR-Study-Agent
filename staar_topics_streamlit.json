@@ -8,12 +8,12 @@
     ],
     "Guided Question": "Why do you think 'Reasons for Exploration' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Reasons for Exploration' in U.S. history?",
+      "question": "What were the primary reasons European nations explored the New World?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "To find new trade routes, gain wealth, and spread Christianity.",
+        "To escape taxation from the British Parliament.",
+        "To establish democracy and equal rights.",
+        "To support the abolition of slavery in Europe."
       ],
       "correct": 0
     }
@@ -27,12 +27,12 @@
     ],
     "Guided Question": "Why do you think 'New Spain' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'New Spain' in U.S. history?",
+      "question": "Why was New Spain significant during the Exploration and Colonization eras?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It was a Spanish colony that focused on converting Native Americans and extracting resources.",
+        "It was the first English settlement in North America.",
+        "It became the capital of the French Empire in the Americas.",
+        "It was a region in Asia conquered by Portuguese explorers."
       ],
       "correct": 0
     }
@@ -45,12 +45,12 @@
     ],
     "Guided Question": "Why do you think 'France' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'France' in U.S. history?",
+      "question": "What role did France play during the early colonization of North America?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "France established fur trading posts and maintained alliances with Native Americans.",
+        "France created large plantations and used enslaved labor extensively.",
+        "France led the fight for American independence from Britain.",
+        "France focused only on mining gold in the Caribbean islands."
       ],
       "correct": 0
     }
@@ -64,12 +64,12 @@
     ],
     "Guided Question": "Why do you think 'Mayflower Compact' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Mayflower Compact' in U.S. history?",
+      "question": "What was the significance of the Mayflower Compact in colonial America?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It established a form of self-government based on majority rule.",
+        "It granted independence from British rule.",
+        "It was a peace treaty between colonists and Native Americans.",
+        "It created the first political party in the colonies."
       ],
       "correct": 0
     }
@@ -83,12 +83,12 @@
     ],
     "Guided Question": "Why do you think 'Reasons for Colonies' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Reasons for Colonies' in U.S. history?",
+      "question": "Why did England establish colonies in North America?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "To gain wealth, spread religion, and expand power through trade and land.",
+        "To end slavery and establish equal rights.",
+        "To mine gold for the Spanish Empire.",
+        "To escape from industrial labor in cities."
       ],
       "correct": 0
     }
@@ -177,12 +177,12 @@
     ],
     "Guided Question": "Why do you think 'Mercantilism' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Mercantilism' in U.S. history?",
+      "question": "How did mercantilism influence the British colonies?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It caused the colonies to send raw materials to Britain in exchange for finished goods.",
+        "It gave colonies full economic independence from Britain.",
+        "It required all colonies to become Catholic nations.",
+        "It eliminated all taxes and duties on trade."
       ],
       "correct": 0
     }
@@ -196,12 +196,12 @@
     ],
     "Guided Question": "Why do you think 'Proclamation of 1763' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Proclamation of 1763' in U.S. history?",
+      "question": "Why was the Proclamation of 1763 significant?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It forbade colonists from settling west of the Appalachian Mountains.",
+        "It encouraged colonists to expand westward into Native lands.",
+        "It granted independence to the 13 colonies.",
+        "It created new trade agreements with France."
       ],
       "correct": 0
     }
@@ -215,12 +215,12 @@
     ],
     "Guided Question": "Why do you think 'Reasons for Duties/Taxes' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Reasons for Duties/Taxes' in U.S. history?",
+      "question": "Why did Britain impose taxes like the Stamp Act and Tea Act on the colonies?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "To help pay off debt from the French and Indian War.",
+        "To reward the colonists for their loyalty.",
+        "To reduce taxes in Britain by increasing trade.",
+        "To give colonies more control over their economies."
       ],
       "correct": 0
     }
@@ -234,12 +234,12 @@
     ],
     "Guided Question": "Why do you think 'Consent of Governed' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Consent of Governed' in U.S. history?",
+      "question": "What does 'consent of the governed' mean in the context of the American Revolution?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "Government power comes from the people being governed.",
+        "Kings are born with the right to rule.",
+        "Only Parliament can decide for the colonies.",
+        "Government should be inherited by royal families."
       ],
       "correct": 0
     }
@@ -253,12 +253,12 @@
     ],
     "Guided Question": "Why do you think 'Intolerable Acts' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Intolerable Acts' in U.S. history?",
+      "question": "What effect did the Intolerable Acts have on the colonies?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "They united colonists against British rule and led to the First Continental Congress.",
+        "They lowered taxes and improved trade relations.",
+        "They allowed colonists to vote for British Parliament members.",
+        "They caused immediate peace between Britain and the colonies."
       ],
       "correct": 0
     }
@@ -272,12 +272,12 @@
     ],
     "Guided Question": "Why do you think 'Unalienable Rights' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Unalienable Rights' in U.S. history?",
+      "question": "What are unalienable rights according to the Declaration of Independence?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "Rights like life, liberty, and the pursuit of happiness that cannot be taken away.",
+        "Voting rights for all citizens.",
+        "The right to own property and serve in government.",
+        "Rights given only to citizens born in England."
       ],
       "correct": 0
     }
@@ -309,12 +309,12 @@
     ],
     "Guided Question": "Why do you think 'Weakness of AoC' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Weakness of AoC' in U.S. history?",
+      "question": "What was one major weakness of the Articles of Confederation?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "The federal government could not tax or enforce laws.",
+        "It created a powerful executive branch with too much control.",
+        "It allowed states to form their own armies without restriction.",
+        "It gave Congress the power to regulate trade efficiently."
       ],
       "correct": 0
     }
@@ -328,12 +328,12 @@
     ],
     "Guided Question": "Why do you think 'Northwest Ordinance' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Northwest Ordinance' in U.S. history?",
+      "question": "Why was the Northwest Ordinance significant in U.S. history?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It established a process for territories to become states and banned slavery in the Northwest.",
+        "It created the first system of federal taxation.",
+        "It allowed Native Americans to claim land in the West.",
+        "It encouraged the growth of slavery in new states."
       ],
       "correct": 0
     }
@@ -347,12 +347,12 @@
     ],
     "Guided Question": "Why do you think 'Great Compromise' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Great Compromise' in U.S. history?",
+      "question": "What did the Great Compromise accomplish at the Constitutional Convention?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It created a two-house legislature combining equal and proportional representation.",
+        "It allowed slaves to be counted fully toward population.",
+        "It banned the importation of enslaved people immediately.",
+        "It merged the Articles of Confederation with the Constitution."
       ],
       "correct": 0
     }
@@ -366,12 +366,12 @@
     ],
     "Guided Question": "Why do you think '3/5 Compromise' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of '3/5 Compromise' in U.S. history?",
+      "question": "What did the 3/5 Compromise decide?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It counted enslaved people as three-fifths of a person for representation and taxation.",
+        "It ended slavery in the Southern Colonies.",
+        "It gave equal voting rights to all citizens.",
+        "It removed all tariffs on imported goods."
       ],
       "correct": 0
     }
@@ -385,12 +385,12 @@
     ],
     "Guided Question": "Why do you think 'Federalist; Hamilton, Madison' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Federalist; Hamilton, Madison' in U.S. history?",
+      "question": "What was the main goal of the Federalists like Hamilton and Madison?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "To promote ratification of the Constitution and a strong central government.",
+        "To oppose the Constitution and support state rights only.",
+        "To rewrite the Declaration of Independence.",
+        "To establish a monarchy in the new nation."
       ],
       "correct": 0
     }
@@ -549,19 +549,19 @@
   },
   {
     "TEKS": "5a, 5c",
-    "Topic": "Hamilton's Pan",
+    "Topic": "Hamilton's Plan",
     "Vocabulary": [
       "Hamilton's",
       "Pan"
     ],
     "Guided Question": "Why do you think 'Hamilton's Pan' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Hamilton's Pan' in U.S. history?",
+      "question": "What was the main purpose of Alexander Hamilton's financial plan?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "To stabilize the U.S. economy by paying off debts and creating a national bank.",
+        "To give state governments more power than the federal government.",
+        "To remove all taxes on whiskey and exports.",
+        "To encourage westward expansion by building new roads."
       ],
       "correct": 0
     }
@@ -575,12 +575,12 @@
     ],
     "Guided Question": "Why do you think 'Whiskey Rebellion' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Whiskey Rebellion' in U.S. history?",
+      "question": "Why was the Whiskey Rebellion important during the Early Republic?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It showed that the new federal government could enforce its laws.",
+        "It marked the start of the American Revolution.",
+        "It led to the writing of the Bill of Rights.",
+        "It allowed the colonies to vote for Parliament."
       ],
       "correct": 0
     }
@@ -594,12 +594,12 @@
     ],
     "Guided Question": "Why do you think 'Farewell Address' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Farewell Address' in U.S. history?",
+      "question": "What advice did George Washington give in his Farewell Address?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "Avoid permanent foreign alliances and political parties.",
+        "Declare war on France and Spain.",
+        "Form a new constitution every 10 years.",
+        "Expand slavery to new territories."
       ],
       "correct": 0
     }
@@ -613,12 +613,12 @@
     ],
     "Guided Question": "Why do you think 'Federalist Party' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Federalist Party' in U.S. history?",
+      "question": "What did the Federalist Party believe in during the Early Republic?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "A strong central government and support for business and trade.",
+        "State governments having more power than the federal government.",
+        "Free land for all settlers west of the Mississippi.",
+        "Immediate abolition of slavery."
       ],
       "correct": 0
     }
@@ -632,12 +632,12 @@
     ],
     "Guided Question": "Why do you think 'Democratic-Republican Party' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Democratic-Republican Party' in U.S. history?",
+      "question": "What did the Democratic-Republican Party support during the Early Republic?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "Stronger state governments and an economy based on farming.",
+        "A powerful national bank and higher taxes.",
+        "Building an empire through conquest.",
+        "Forming alliances with Britain against France."
       ],
       "correct": 0
     }
@@ -718,603 +718,95 @@
     }
   },
   {
-    "TEKS": "7d, 7e, 17b",
-    "Topic": "Nullification Crisis",
+    "TEKS": "15(C)",
+    "Topic": "1st Amendment",
     "Vocabulary": [
-      "Nullification",
-      "Crisis"
+      "freedom",
+      "rights"
     ],
-    "Guided Question": "Why do you think 'Nullification Crisis' was important in U.S. history?",
+    "Guided Question": "Why do you think the 1st Amendment is important in protecting citizens' freedoms?",
     "Quiz": {
-      "question": "What is the significance of 'Nullification Crisis' in U.S. history?",
+      "question": "Which rights are protected by the 1st Amendment?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "Freedom of speech, religion, press, assembly, and petition.",
+        "The right to bear arms and trial by jury.",
+        "Protection from unreasonable searches.",
+        "Voting rights for all citizens over 18."
       ],
       "correct": 0
     }
   },
   {
-    "TEKS": "5h, 23c",
-    "Topic": "Worcester v. Georgia",
+    "TEKS": "15(A)",
+    "Topic": "Federalists vs. Anti-Federalists",
     "Vocabulary": [
-      "Worcester",
-      "v."
+      "ratify",
+      "strong government"
     ],
-    "Guided Question": "Why do you think 'Worcester v. Georgia' was important in U.S. history?",
+    "Guided Question": "Why do you think the debate between Federalists and Anti-Federalists was important?",
     "Quiz": {
-      "question": "What is the significance of 'Worcester v. Georgia' in U.S. history?",
+      "question": "What did the disagreement between Federalists and Anti-Federalists focus on?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "Whether the Constitution gave too much power to the national government.",
+        "Whether to declare war on Britain.",
+        "How to divide the Louisiana Territory.",
+        "Who would become the first U.S. president."
       ],
       "correct": 0
     }
   },
   {
-    "TEKS": "26a, 26b",
-    "Topic": "Hudson River School",
+    "TEKS": "15(B)",
+    "Topic": "Addressing Grievances",
     "Vocabulary": [
-      "Hudson",
-      "River"
+      "grievances",
+      "Declaration"
     ],
-    "Guided Question": "Why do you think 'Hudson River School' was important in U.S. history?",
+    "Guided Question": "Why do you think it's important that the Constitution addressed grievances from the Declaration of Independence?",
     "Quiz": {
-      "question": "What is the significance of 'Hudson River School' in U.S. history?",
+      "question": "How did the Constitution address grievances listed in the Declaration of Independence?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "By limiting the power of the federal government and protecting individual rights.",
+        "By increasing the powers of the king.",
+        "By reducing state control over local governments.",
+        "By removing Congress\u2019s ability to make laws."
       ],
       "correct": 0
     }
   },
   {
-    "TEKS": "13a",
-    "Topic": "Effects of War of 1812",
+    "TEKS": "4(C)",
+    "Topic": "Key Battles of the Revolution",
     "Vocabulary": [
-      "Effects",
-      "War"
+      "Saratoga",
+      "Yorktown"
     ],
-    "Guided Question": "Why do you think 'Effects of War of 1812' was important in U.S. history?",
+    "Guided Question": "Why do you think the Battles of Saratoga and Yorktown were important in the American Revolution?",
     "Quiz": {
-      "question": "What is the significance of 'Effects of War of 1812' in U.S. history?",
+      "question": "Why is the Battle of Saratoga considered a turning point in the American Revolution?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "Because it convinced France to join the war on the side of the Americans.",
+        "Because it marked the first use of the U.S. Constitution in battle.",
+        "Because it was the final surrender of British troops.",
+        "Because it ended the war with the Treaty of Paris."
       ],
       "correct": 0
     }
   },
   {
-    "TEKS": "13a",
-    "Topic": "Industrial Revolution Causes",
+    "TEKS": "8c, 8d",
+    "Topic": "Vicksburg",
     "Vocabulary": [
-      "Industrial",
-      "Revolution"
+      "Vicksburg"
     ],
-    "Guided Question": "Why do you think 'Industrial Revolution Causes' was important in U.S. history?",
+    "Guided Question": "Why do you think 'Vicksburg' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Industrial Revolution Causes' in U.S. history?",
+      "question": "Why was the Battle of Vicksburg significant during the Civil War?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "12b, 27a",
-    "Topic": "Cotton Gin",
-    "Vocabulary": [
-      "Cotton",
-      "Gin"
-    ],
-    "Guided Question": "Why do you think 'Cotton Gin' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Cotton Gin' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "12b, 27a",
-    "Topic": "Interchangeable Parts",
-    "Vocabulary": [
-      "Interchangeable",
-      "Parts"
-    ],
-    "Guided Question": "Why do you think 'Interchangeable Parts' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Interchangeable Parts' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "13b, 14a, 14b",
-    "Topic": "Free Enterprise",
-    "Vocabulary": [
-      "Free",
-      "Enterprise"
-    ],
-    "Guided Question": "Why do you think 'Free Enterprise' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Free Enterprise' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "13b, 14a, 14b",
-    "Topic": "Factory System",
-    "Vocabulary": [
-      "Factory",
-      "System"
-    ],
-    "Guided Question": "Why do you think 'Factory System' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Factory System' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "10c, 27a, 27b, 28a",
-    "Topic": "Canals",
-    "Vocabulary": [
-      "Canals"
-    ],
-    "Guided Question": "Why do you think 'Canals' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Canals' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "10c, 27a, 27b, 28a",
-    "Topic": "Steamboats & Railroads",
-    "Vocabulary": [
-      "Steamboats",
-      "&"
-    ],
-    "Guided Question": "Why do you think 'Steamboats & Railroads' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Steamboats & Railroads' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "10c, 27a, 27b, 28a",
-    "Topic": "Telegraph",
-    "Vocabulary": [
-      "Telegraph"
-    ],
-    "Guided Question": "Why do you think 'Telegraph' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Telegraph' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "13b, 23a, 23b",
-    "Topic": "Urbanization",
-    "Vocabulary": [
-      "Urbanization"
-    ],
-    "Guided Question": "Why do you think 'Urbanization' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Urbanization' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "13b, 23a, 23b",
-    "Topic": "Immigration, Nativism ",
-    "Vocabulary": [
-      "Immigration,",
-      "Nativism"
-    ],
-    "Guided Question": "Why do you think 'Immigration, Nativism ' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Immigration, Nativism ' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "7d, 21c",
-    "Topic": "Missouri Compromise",
-    "Vocabulary": [
-      "Missouri",
-      "Compromise"
-    ],
-    "Guided Question": "Why do you think 'Missouri Compromise' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Missouri Compromise' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "1a, 6b",
-    "Topic": "Reasons Manifest Destiny",
-    "Vocabulary": [
-      "Reasons",
-      "Manifest"
-    ],
-    "Guided Question": "Why do you think 'Reasons Manifest Destiny' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Reasons Manifest Destiny' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "6b, 10a, 23a",
-    "Topic": "Oregon Territory",
-    "Vocabulary": [
-      "Oregon",
-      "Territory"
-    ],
-    "Guided Question": "Why do you think 'Oregon Territory' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Oregon Territory' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "6b, 6c, 10a",
-    "Topic": "U.S.-Mexican War",
-    "Vocabulary": [
-      "U.S.-Mexican",
-      "War"
-    ],
-    "Guided Question": "Why do you think 'U.S.-Mexican War' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'U.S.-Mexican War' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "6b, 6c, 10a",
-    "Topic": "Mexican Cession",
-    "Vocabulary": [
-      "Mexican",
-      "Cession"
-    ],
-    "Guided Question": "Why do you think 'Mexican Cession' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Mexican Cession' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "11a, 23a, 23c",
-    "Topic": "California Gold",
-    "Vocabulary": [
-      "California",
-      "Gold"
-    ],
-    "Guided Question": "Why do you think 'California Gold' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'California Gold' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "23e, 24b, 25b",
-    "Topic": "2nd Great Awakening",
-    "Vocabulary": [
-      "2nd",
-      "Great"
-    ],
-    "Guided Question": "Why do you think '2nd Great Awakening' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of '2nd Great Awakening' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "23e, 24b, 25b",
-    "Topic": "Mental Illness Reform",
-    "Vocabulary": [
-      "Mental",
-      "Illness"
-    ],
-    "Guided Question": "Why do you think 'Mental Illness Reform' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Mental Illness Reform' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "1a, 23e, 24b",
-    "Topic": "Temperance Movement",
-    "Vocabulary": [
-      "Temperance",
-      "Movement"
-    ],
-    "Guided Question": "Why do you think 'Temperance Movement' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Temperance Movement' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "1a, 23e, 24b",
-    "Topic": "Abolitionists",
-    "Vocabulary": [
-      "Abolitionists"
-    ],
-    "Guided Question": "Why do you think 'Abolitionists' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Abolitionists' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "20b, 26a, 26b",
-    "Topic": "Transcendentalism",
-    "Vocabulary": [
-      "Transcendentalism"
-    ],
-    "Guided Question": "Why do you think 'Transcendentalism' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Transcendentalism' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "23e, 24b",
-    "Topic": "Women's Rights Movement",
-    "Vocabulary": [
-      "Women's",
-      "Rights"
-    ],
-    "Guided Question": "Why do you think 'Women's Rights Movement' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Women's Rights Movement' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "8b, 10b, 12a, 12b",
-    "Topic": "Northern Life",
-    "Vocabulary": [
-      "Northern",
-      "Life"
-    ],
-    "Guided Question": "Why do you think 'Northern Life' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Northern Life' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "8b, 10b, 12a, 12b",
-    "Topic": "Southern Life",
-    "Vocabulary": [
-      "Southern",
-      "Life"
-    ],
-    "Guided Question": "Why do you think 'Southern Life' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Southern Life' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "8b, 10b, 12a, 12b",
-    "Topic": "Sectionalism",
-    "Vocabulary": [
-      "Sectionalism"
-    ],
-    "Guided Question": "Why do you think 'Sectionalism' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Sectionalism' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "7c, 7d, 7e, 21c",
-    "Topic": "Compromise of 1850",
-    "Vocabulary": [
-      "Compromise",
-      "1850"
-    ],
-    "Guided Question": "Why do you think 'Compromise of 1850' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Compromise of 1850' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "7c, 7d, 7e, 21c",
-    "Topic": "Fugitive Slave Act of 1850",
-    "Vocabulary": [
-      "Fugitive",
-      "Slave"
-    ],
-    "Guided Question": "Why do you think 'Fugitive Slave Act of 1850' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Fugitive Slave Act of 1850' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "7c, 7d, 7e, 21c",
-    "Topic": "Kansas-Nebraska Act",
-    "Vocabulary": [
-      "Kansas-Nebraska",
-      "Act"
-    ],
-    "Guided Question": "Why do you think 'Kansas-Nebraska Act' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Kansas-Nebraska Act' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "It gave the Union control of the Mississippi River, splitting the Confederacy.",
+        "It marked the first use of ironclad ships in battle.",
+        "It ended the Civil War with Lee\u2019s surrender.",
+        "It was the battle where Lincoln gave the Gettysburg Address."
       ],
       "correct": 0
     }
@@ -1328,12 +820,12 @@
     ],
     "Guided Question": "Why do you think 'Lincoln's 1st Inaugural Address' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Lincoln's 1st Inaugural Address' in U.S. history?",
+      "question": "What was the main message in Lincoln's First Inaugural Address?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "He promised not to interfere with slavery but to preserve the Union.",
+        "He declared war on the Southern states.",
+        "He announced the Emancipation Proclamation.",
+        "He called for the secession of Northern states."
       ],
       "correct": 0
     }
@@ -1347,12 +839,12 @@
     ],
     "Guided Question": "Why do you think 'Davis's 1st Inaugural Address' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Davis's 1st Inaugural Address' in U.S. history?",
+      "question": "What idea did Jefferson Davis promote in his First Inaugural Address?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "That secession was justified to protect states' rights and Southern interests.",
+        "That slavery should be abolished across all states.",
+        "That the South should rejoin the Union peacefully.",
+        "That a monarchy should replace the presidency."
       ],
       "correct": 0
     }
@@ -1366,30 +858,12 @@
     ],
     "Guided Question": "Why do you think 'North v. South' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'North v. South' in U.S. history?",
+      "question": "What advantage did the North have over the South during the Civil War?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "8c, 8d",
-    "Topic": "Vicksburg",
-    "Vocabulary": [
-      "Vicksburg"
-    ],
-    "Guided Question": "Why do you think 'Vicksburg' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of 'Vicksburg' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "The North had more factories, a larger population, and greater transportation networks.",
+        "The North had more support from European nations.",
+        "The North had better farmland and longer growing seasons.",
+        "The North was fighting a defensive war on its own land."
       ],
       "correct": 0
     }
@@ -1403,12 +877,88 @@
     ],
     "Guided Question": "Why do you think 'Appomattox Court House' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Appomattox Court House' in U.S. history?",
+      "question": "What happened at Appomattox Court House in 1865?",
       "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
+        "General Lee surrendered to General Grant, effectively ending the Civil War.",
+        "Abraham Lincoln delivered the Emancipation Proclamation.",
+        "The Confederate Congress voted to abolish slavery.",
+        "The first battle of the Civil War took place."
+      ],
+      "correct": 0
+    }
+  },
+  {
+    "TEKS": "6b, 6c, 10a",
+    "Topic": "Mexican Cession",
+    "Vocabulary": [
+      "Mexican",
+      "Cession"
+    ],
+    "Guided Question": "Why do you think 'Mexican Cession' was important in U.S. history?",
+    "Quiz": {
+      "question": "What was the significance of the Mexican Cession?",
+      "choices": [
+        "It added a large amount of western land to the U.S. after the Mexican-American War.",
+        "It gave independence to Texas from Mexico.",
+        "It ended the Revolutionary War with a peace treaty.",
+        "It marked the start of British colonization in California."
+      ],
+      "correct": 0
+    }
+  },
+  {
+    "TEKS": "11a, 23a, 23c",
+    "Topic": "California Gold",
+    "Vocabulary": [
+      "California",
+      "Gold"
+    ],
+    "Guided Question": "Why do you think 'California Gold' was important in U.S. history?",
+    "Quiz": {
+      "question": "How did the California Gold Rush impact westward expansion?",
+      "choices": [
+        "It caused rapid population growth and helped California become a state.",
+        "It helped end slavery in the South.",
+        "It started a war between the U.S. and Spain.",
+        "It limited settlement west of the Appalachian Mountains."
+      ],
+      "correct": 0
+    }
+  },
+  {
+    "TEKS": "6b, 10a, 23a",
+    "Topic": "Oregon Territory",
+    "Vocabulary": [
+      "Oregon",
+      "Territory"
+    ],
+    "Guided Question": "Why do you think 'Oregon Territory' was important in U.S. history?",
+    "Quiz": {
+      "question": "Why was the Oregon Territory important to U.S. expansion?",
+      "choices": [
+        "It fulfilled part of Manifest Destiny by securing land in the Northwest.",
+        "It was the site of the first battle of the Civil War.",
+        "It ended slavery in the Northern states.",
+        "It provided land for British settlers fleeing war."
+      ],
+      "correct": 0
+    }
+  },
+  {
+    "TEKS": "6b, 6c, 10a",
+    "Topic": "U.S.-Mexican War",
+    "Vocabulary": [
+      "U.S.-Mexican",
+      "War"
+    ],
+    "Guided Question": "Why do you think 'U.S.-Mexican War' was important in U.S. history?",
+    "Quiz": {
+      "question": "What was a major outcome of the U.S.-Mexican War?",
+      "choices": [
+        "The U.S. gained territory in the Southwest through the Treaty of Guadalupe Hidalgo.",
+        "The U.S. declared independence from Britain.",
+        "Mexico gained control of California and Texas.",
+        "The war ended Reconstruction in the South."
       ],
       "correct": 0
     }
@@ -1433,15 +983,15 @@
     }
   },
   {
-    "TEKS": "8b, 9a, 9c",
-    "Topic": "Radical Republicans",
+    "TEKS": "7b, 9b, 9c, 16b",
+    "Topic": "15th Amendment ",
     "Vocabulary": [
-      "Radical",
-      "Republicans"
+      "15th",
+      "Amendment"
     ],
-    "Guided Question": "Why do you think 'Radical Republicans' was important in U.S. history?",
+    "Guided Question": "Why do you think '15th Amendment ' was important in U.S. history?",
     "Quiz": {
-      "question": "What is the significance of 'Radical Republicans' in U.S. history?",
+      "question": "What is the significance of '15th Amendment ' in U.S. history?",
       "choices": [
         "It was a key event that shaped early America.",
         "It was only important in European history.",
@@ -1490,6 +1040,25 @@
     }
   },
   {
+    "TEKS": "8b, 9a, 9c",
+    "Topic": "Radical Republicans",
+    "Vocabulary": [
+      "Radical",
+      "Republicans"
+    ],
+    "Guided Question": "Why do you think 'Radical Republicans' was important in U.S. history?",
+    "Quiz": {
+      "question": "What did Radical Republicans want during Reconstruction?",
+      "choices": [
+        "To protect the rights of freedmen and punish former Confederate leaders.",
+        "To restore Southern plantations and return to slavery.",
+        "To allow the South to rejoin the Union without any conditions.",
+        "To support the Confederacy\u2019s right to secede from the Union."
+      ],
+      "correct": 0
+    }
+  },
+  {
     "TEKS": "7b, 9b, 9c, 16b",
     "Topic": "Hiram Rhodes Revels",
     "Vocabulary": [
@@ -1499,25 +1068,6 @@
     "Guided Question": "Why do you think 'Hiram Rhodes Revels' was important in U.S. history?",
     "Quiz": {
       "question": "What is the significance of 'Hiram Rhodes Revels' in U.S. history?",
-      "choices": [
-        "It was a key event that shaped early America.",
-        "It was only important in European history.",
-        "It had no lasting impact.",
-        "It was a fictional story."
-      ],
-      "correct": 0
-    }
-  },
-  {
-    "TEKS": "7b, 9b, 9c, 16b",
-    "Topic": "15th Amendment ",
-    "Vocabulary": [
-      "15th",
-      "Amendment"
-    ],
-    "Guided Question": "Why do you think '15th Amendment ' was important in U.S. history?",
-    "Quiz": {
-      "question": "What is the significance of '15th Amendment ' in U.S. history?",
       "choices": [
         "It was a key event that shaped early America.",
         "It was only important in European history.",
