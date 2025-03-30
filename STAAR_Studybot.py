@@ -63,7 +63,6 @@ if st.button("Submit Answer"):
 st.info("Ready for another question? Click below!")
 if st.button("Next Question"):
     st.session_state.topic_index = random.randint(0, len(topics) - 1)
-    if 'shuffled_choices' in st.session_state:
-        del st.session_state['shuffled_choices']
-        del st.session_state['shuffled_topic']
-        del st.session_state['correct_answer']
+    for key in ['shuffled_choices', 'shuffled_topic', 'correct_answer']:
+        st.session_state.pop(key, None)
+    st.experimental_rerun()
