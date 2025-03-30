@@ -4,6 +4,12 @@ import random
 import json
 import os
 
+# Add rerun trigger check
+if 'trigger_next' in st.session_state and st.session_state.trigger_next:
+    st.session_state.trigger_next = False
+    st.experimental_rerun()
+
+
 # Dynamically determine file path
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(BASE_DIR, "staar_topics_streamlit.json")
@@ -65,4 +71,4 @@ if st.button("Next Question"):
     st.session_state.topic_index = random.randint(0, len(topics) - 1)
     for key in ['shuffled_choices', 'shuffled_topic', 'correct_answer']:
         st.session_state.pop(key, None)
-    st.experimental_rerun()
+    st.session_state.trigger_next = True
