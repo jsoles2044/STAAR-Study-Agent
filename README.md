@@ -3,7 +3,7 @@ STAAR Study Agent for 8th Social Studies Test Prep
 # STAAR Study Agent 🤖
 
 An interactive, multilingual AI tutor built to help 8th-grade students prepare for the STAAR Social Studies exam.  
-Designed by Alex [Your Last Name], this project supports vocabulary building, guided questioning, and STAAR-aligned multiple-choice practice—just like the real test.
+Designed by Alex Soles, this project supports vocabulary building, guided questioning, and STAAR-aligned multiple-choice practice—just like the real test.
 
 ---
 
@@ -47,6 +47,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 To request features, report issues, or discuss licensing for school/district use:
 
-**Alex [Your Last Name]**  
-Email: yourname@email.com  
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Alex Soles**  
+📧 Email: [jsoles3451@outlook.com](mailto:jsoles3451@outlook.com)  
+🔗 LinkedIn: [linkedin.com/in/jsoles2044](https://linkedin.com/in/jsoles2044)
