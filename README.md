@@ -49,5 +49,6 @@ To request features, report issues, or discuss licensing for school/district use
 
 **Alex Soles**  
 📧 Email: [jsoles3451@outlook.com](mailto:jsoles3451@outlook.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/jason-soles-b804205/](url)
+🔗 LinkedIn: [Jason Soles](https://www.linkedin.com/in/jason-soles-b804205/)
 
+---
