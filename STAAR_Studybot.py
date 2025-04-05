@@ -34,9 +34,10 @@ if st.session_state.trigger_next:
     st.session_state.trigger_next = False
     st.experimental_rerun()
 
-# Initialize or load current topic index
-if 'topic_index' not in st.session_state:
-    st.session_state.topic_index = random.randint(0, len(topics) - 1)
+# Prevent rerun from firing too early on first load
+if "initialized" not in st.session_state:
+    st.session_state.initialized = True
+    st.stop()
 
 topic = topics[st.session_state.topic_index]
 st.header(f"Topic: {topic['Topic']} ({topic['TEKS']})")
