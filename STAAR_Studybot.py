@@ -4,12 +4,6 @@ import random
 import json
 import os
 
-# Add rerun trigger check
-if 'trigger_next' in st.session_state and st.session_state.trigger_next:
-    st.session_state.trigger_next = False
-    st.experimental_rerun()
-
-
 # Dynamically determine file path
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(BASE_DIR, "staar_topics_streamlit.json")
@@ -27,6 +21,16 @@ st.write("Let’s get ready for the 8th Grade Social Studies STAAR!")
 
 language = st.radio("Which language would you prefer to use for your study session?", ["English", "Spanish", "French"])
 
+# Handle Next Question rerun safely
+# Handle Next Question rerun safely
+if "trigger_next" not in st.session_state:
+    st.session_state.trigger_next = False
+
+if st.session_state.trigger_next:
+    st.session_state.trigger_next = False
+    st.experimental_rerun()
+
+# Initialize or load current topic index
 if 'topic_index' not in st.session_state:
     st.session_state.topic_index = random.randint(0, len(topics) - 1)
 
@@ -50,7 +54,7 @@ question = quiz['question']
 choices = quiz['choices']
 correct_index = quiz['correct']
 
-# Randomize choices and keep track of correct answer
+# Randomize choices and store correct answer
 if 'shuffled_choices' not in st.session_state or st.session_state.get('shuffled_topic') != topic['Topic']:
     paired_choices = list(enumerate(choices))
     random.shuffle(paired_choices)
@@ -67,6 +71,8 @@ if st.button("Submit Answer"):
         st.error("Not quite—try reviewing the vocabulary and guided question again.")
 
 st.info("Ready for another question? Click below!")
+
+# Handle "Next Question" safely
 if st.button("Next Question"):
     st.session_state.topic_index = random.randint(0, len(topics) - 1)
     for key in ['shuffled_choices', 'shuffled_topic', 'correct_answer']:
