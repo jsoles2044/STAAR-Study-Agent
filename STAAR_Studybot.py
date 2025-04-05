@@ -21,7 +21,11 @@ st.write("Let’s get ready for the 8th Grade Social Studies STAAR!")
 
 language = st.radio("Which language would you prefer to use for your study session?", ["English", "Spanish", "French"])
 
-# Handle Next Question rerun safely
+# Prevent rerun from firing too early
+if "initialized" not in st.session_state:
+    st.session_state.initialized = True
+    st.stop()
+    
 # Handle Next Question rerun safely
 if "trigger_next" not in st.session_state:
     st.session_state.trigger_next = False
